@@ -1,4 +1,4 @@
-# rizkirone-191011401194_Rizki-Setiawan_UAS_PemroW_06TPLM007eb2
+<h1>README.md</h1>
 
 link Hosting : http://pemrorizki.infinityfreeapp.com/ di hostinhg oleh rizki setiawan,
 
@@ -13,7 +13,7 @@ ramdani firdaus,
 
 crud.sql database
 
-Add.php digunakan untuk post 
+Add.php digunakan untuk post dibuat oleh Robby Maulana
 
 Delete.php digunakan untuk menghapus data submit 
 
@@ -31,5 +31,5 @@ logout.php digunakan untuk mendestroy atau keluar dari halaman input dan kembali
 
 show.php digunakan unutk melihat halaman data pemesanan yang telah di submit
 
-priviewDocument.php digunakan untuk mencetak report pdf
+priviewDocument.php digunakan untuk mencetak report pdf dibuat oleh Sandra Meitia
 
